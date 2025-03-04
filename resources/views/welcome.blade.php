@@ -1,5 +1,8 @@
 <html>
 <head>
+    
+    <x-navigation></x-navigation>
+    
     <title>WELCOME</title>
     <link rel="stylesheet" href="style.css">
 <body>

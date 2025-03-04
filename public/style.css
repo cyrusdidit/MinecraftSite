@@ -1,6 +1,6 @@
 body {
-    background-color: #91a6ec;
-    color: #434e72;
+    background-color: #7dbbe7;
+    color: #366c93;
     font-size: 25px;
     display: flex;
     flex-direction: column;
@@ -10,18 +10,20 @@ body {
     margin: 0;
 }
 
-.btn {
-    padding: 10px 20px;
-    background-color: #434e72;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-    margin-top: 20px;
+h1{
+    color: #2a5472;
 }
 
-.btn:hover {
-    background-color: #374266;
+
+a{
+    color: #366c93;
+    text-decoration: none;
+}
+
+li:hover{
+    color: #0b2a41;
+}
+
+a:hover{
+    color: #0b2a41;
 }

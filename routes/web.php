@@ -21,5 +21,8 @@ Route::get('/marketplace', function () {
 });
 
 Route::get('/todos', [ToDoController::class, 'index']);
+Route::get('/todos/{todo}', [ToDoController::class, 'show']);
+
 
 Route::get('/diary', [DiaryController::class, 'index']);
+Route::get('/diaries/{diary}', [DiaryController::class, 'show']);
