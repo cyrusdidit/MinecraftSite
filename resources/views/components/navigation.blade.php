@@ -12,7 +12,9 @@
     <ul>
         <li><a href="/">Start</a></li>
         <li><a href="/todos">Todossss</a></li>
+        <li><a href="/todos/create">Create a TO DO</a></li>
         <li><a href="/diary">DIARY</a></li>
+        <li><a href="/diary/create">Create a DIARY entry</a></li>
     </ul>
 </nav>
 </header>
